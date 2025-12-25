@@ -1,0 +1,3 @@
+I have a a beautiful antenna
+swr 1.8  impedance 87 Ohm
+What !
